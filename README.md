@@ -9,6 +9,7 @@ The Superstore wants to create an annual sales report. So that, the owner of the
 
 # Questions (KPIs)
 -Total Sales over selected periods and across filters (Region, State, City, Category).
+
 -Total Profit and profit margins per Region, State, City, and Category.
 -Quantity sold per Category and Sub-category, tracked by month and year.
 -Sales growth or decline trends month-over-month and year-over-year.
