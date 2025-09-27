@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive dashboard project using python, creating multiple charts and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Sample-Superstore-Data Analysis (Interactive Dashboard creation using Python + Streamlit)
+## Project Objective
+The Superstore wants to create an annual sales report. So that, the owner of the the Superstore can understand  their customers and grow more sales.
