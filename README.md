@@ -27,4 +27,5 @@ The Superstore wants to create an annual sales report. So that, the owner of the
 •	Foster a data-driven culture by empowering employees and decision-makers to base actions on real, timely information.
 
 ## Dashboard
-https://github.com/dimpalrathor/Data-Analysis-Dashboard/blob/main/WhatsApp%20Image%202025-09-27%20at%2011.29.47_a35d0322.jpg
+![WhatsApp Image 2025-09-27 at 11 29 47_a35d0322](https://github.com/user-attachments/assets/c5120bbd-3537-45a4-96a9-172e585456ca)
+
