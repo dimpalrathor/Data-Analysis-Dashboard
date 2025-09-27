@@ -11,13 +11,21 @@ The Superstore wants to create an annual sales report. So that, the owner of the
 -Total Sales over selected periods and across filters (Region, State, City, Category).
 
 -Total Profit and profit margins per Region, State, City, and Category.
+
 -Quantity sold per Category and Sub-category, tracked by month and year.
+
 -Sales growth or decline trends month-over-month and year-over-year.
+
 -Number of Orders processed in selected time frames and locations.
+
 -Category-wise Sales distribution (e.g., Electronics, Furniture, Office Supplies).
+
 -Region-wise Sales share (percentage of sales from each region).
+
 -Segment-wise Sales (e.g., Consumer, Corporate, Home Office).
+
 -Usage stats for data export/download buttons (e.g., number of downloads per category, region, or full dataset).
+
 -Dashboard Interaction <a href="https://github.com/dimpalrathor/Data-Analysis-Dashboard/blob/main/WhatsApp%20Image%202025-09-27%20at%2011.29.47_a35d0322.jpg">View Dashboard</a>
 
 # Process
